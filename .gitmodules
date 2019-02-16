@@ -1,0 +1,3 @@
+[submodule "atmos-python"]
+	path = atmos-python
+	url = https://github.com/EMCECS/atmos-python
